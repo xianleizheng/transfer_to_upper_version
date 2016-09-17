@@ -1,0 +1,9 @@
+test
+test/*
+spec
+spec/*
+tmp
+tmp/*
+.idea
+.keep
+.
